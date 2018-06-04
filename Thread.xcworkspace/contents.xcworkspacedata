@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:demo-GCD/demo-GCD.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:demo-NSOperation/demo-NSOperation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:demo-NSThread/demo-NSThread.xcodeproj">
+   </FileRef>
+</Workspace>
